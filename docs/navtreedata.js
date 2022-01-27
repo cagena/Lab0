@@ -24,10 +24,9 @@
 */
 var NAVTREE =
 [
-  [ "ME 405 Lab", "index.html", [
+  [ "ME 405 Lab 0", "index.html", [
     [ "Files", "files.html", [
       [ "Introduction", "index.html#intro", null ],
-      [ "Lab 0", "index.html#lab0", null ],
       [ "File List", "files.html", "files_dup" ]
     ] ]
   ] ]
